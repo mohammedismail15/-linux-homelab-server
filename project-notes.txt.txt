@@ -1,0 +1,23 @@
+PROJECT: Linux Home Lab Server
+Admin: Mohammed Ismail
+Date Started: June 2026
+
+WHAT I BUILT:
+- Installed Ubuntu Server 24.04 on VMware Workstation
+- Configured user accounts and file permissions
+- Installed and configured Apache web server
+- Hosted a custom webpage on IP: 192.168.127.137
+- Wrote automated backup script using Bash
+
+TOOLS USED:
+- VMware Workstation
+- Ubuntu Server 24.04 LTS
+- Apache2
+- Bash scripting
+- Linux CLI commands
+
+COMMANDS LEARNED:
+- sudo apt update && sudo apt upgrade
+- sudo systemctl start/enable/status apache2
+- mkdir, ls, cd, chmod, chown
+- ip addr, df -h, free -h, uptime
